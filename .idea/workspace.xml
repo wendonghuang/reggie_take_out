@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ad14eb9-970b-4593-9967-ac04ec4a5f6a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/404-images/404-cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/404-images/404.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/btn_back@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/btn_clean@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/btn_close@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/icon_index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/icon_upload@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/jine_m-2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/renshu@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/xiangmujine@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/img_brand01@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/img_denglu_bj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/login/login-l.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/login/login-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/login/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/images/noImg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/fonts/element-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/fonts/element-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/fonts/element-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/fonts/element-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/fonts/DIN-Bold.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/fonts/DIN-Medium.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Semibold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/cart_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/checked_false.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/checked_true.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/demo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/demo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/demo3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/demo4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/favico.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/headPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/location.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/locations.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/mainBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/noImg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/no_order.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/no_wifi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/orders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/subtract.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/time.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/images/women.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/ReggieApplication.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/common/BaseContext.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/common/CustomerException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/common/GloblaExceptionHandle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/common/JacksonObjectMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/common/MyMetaObjectHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/common/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/config/MybatisplusConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/config/WebMvcConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/AddressBookController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/CategoryController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/CommonController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/DishController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/EmployeeController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/OrderController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/OrderDetailController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/SetmealController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/ShoppingCartController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/UserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/dto/DishDto.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/dto/OrdersDto.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/dto/SetmealDto.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/AddressBook.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/Category.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/Dish.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/DishFlavor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/Employee.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/OrderDetail.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/Orders.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/Setmeal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/SetmealDish.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/ShoppingCart.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/User.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/filter/LoginCheckFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/mapper/AddressBookMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/mapper/CategoryMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/mapper/DishFlavorMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/mapper/DishMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/mapper/EmployeeMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/mapper/OrderDetailMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/mapper/OrderMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/mapper/SetmealDishMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/mapper/SetmealMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/mapper/ShoppingCartMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/mapper/UserMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/AddressBookService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/CategoryService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/DishFlavorService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/DishService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/EmployeeService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/OrderDetailService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/OrderService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/SetmealDishService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/SetmealService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/ShoppingCartService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/UserService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/AddressBookServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/CategoryServiceImp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/DishFlavorServiceImp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/DishServiceImp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/EmployeeServicImp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/OrderDetailServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/OrderServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/SetmealDishServiceImp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/SetmealServiceImp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/ShoppingCartServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/UserServiceImp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/utils/SMSUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/reggie/utils/ValidateCodeUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/reggie_take_out-1.0-SNAPSHOT.jar.original" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/api/category.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/api/combo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/api/food.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/api/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/api/member.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/api/order.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/js/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/js/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/page.demo/upload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/page/category/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/page/combo/add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/page/combo/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/page/demo/upload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/page/food/add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/page/food/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/page/login/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/page/member/add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/page/member/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/page/order/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/plugins/axios/axios.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/plugins/vue/vue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/demo_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/backend/styles/page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/api/address.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/api/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/api/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/api/order.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/cartData.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/js/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/js/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/js/vant.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/page/add-order.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/page/address-edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/page/address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/page/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/page/no-wify.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/page/order.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/page/pay-success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/page/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/styles/add-order.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/styles/address-edit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/styles/address.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/styles/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/styles/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/styles/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/styles/no-wify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/styles/order.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/styles/pay-success.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/styles/user.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/front/styles/vant.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReggieApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/reggie/ReggieApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/front/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="food.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/backend/api/food.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="39" column="9" lean-forward="false" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/front/page/user.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="653">
+              <caret line="194" column="7" lean-forward="true" selection-start-line="194" selection-start-column="7" selection-end-line="194" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>empty</find>
+      <find>null</find>
+      <find>employee</find>
+      <find>statusHandle</find>
+      <find>Dish</find>
+      <find>setmeal</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BaseContext.getThreadLocal()</replace>
+      <replace>setmeal</replace>
+      <replace>Setmeal</replace>
+      <replace>dish</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hwb_firstcommit" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/reggie/entity/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/mapper/DishMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/mapper/SetmealDishMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/SetmealDishService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/SetmealDishServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/mapper/SetmealMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/common/CustomerException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/CategoryServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/common/GloblaExceptionHandle.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/CommonController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/DishFlavorService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/mapper/DishFlavorMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/DishFlavorServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/dto/DishDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/ReggieApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/dto/SetmealDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/dto/OrdersDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/SetmealService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/SetmealServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/DishService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/mapper/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/UserServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/front/page/login.html" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/filter/LoginCheckFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/mapper/AddressBookMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/AddressBookService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/AddressBookServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/AddressBookController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/mapper/ShoppingCartMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/ShoppingCartService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/ShoppingCartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/ShoppingCartController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/SetmealController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/DishController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/DishServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/OrderDetailService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/OrderDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/mapper/OrderDetailMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/OrderDetailController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\86153\.m2\repository" />
+        <option name="mavenHome" value="C:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="reggie_take_out" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="reggie_take_out" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="reggie_take_out" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="899" />
+    <option name="height" value="538" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="reggie_take_out" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reggie_take_out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reggie_take_out" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reggie_take_out" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\86153\qqFiles\idea\reggie_take_out\src\main\java\reggie\service\serviceImp" />
+      <recent name="D:\86153\qqFiles\idea\reggie_take_out\src\main\java\reggie\service" />
+      <recent name="D:\86153\qqFiles\idea\reggie_take_out\src\main\java\reggie\mapper" />
+      <recent name="D:\86153\qqFiles\idea\reggie_take_out\src\main\java\reggie\controller" />
+      <recent name="D:\86153\qqFiles\idea\reggie_take_out\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ReggieApplication">
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="reggie.ReggieApplication" />
+      <module name="reggie_take_out" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ad14eb9-970b-4593-9967-ac04ec4a5f6a" name="Default" comment="" />
+      <created>1658971284321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658971284321</updated>
+      <workItem from="1658971288558" duration="46549000" />
+      <workItem from="1659313876606" duration="31560000" />
+      <workItem from="1659420181449" duration="3748000" />
+      <workItem from="1659496182027" duration="42000" />
+      <workItem from="1659505680571" duration="3669000" />
+    </task>
+    <task id="LOCAL-00001" summary="first_commit">
+      <created>1659519980407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659519980407</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85568000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="RestServices" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Word Book" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30156815" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8385542" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2666309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first_commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="33" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="empId" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/entity/SetmealDish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/SetmealService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/common/CustomerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#195#196#0" expanded="false" />
+            <element signature="e#221#222#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.6/spring-core-5.3.6.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.6/spring-aop-5.3.6.jar!/org/springframework/aop/support/AopUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="193" column="0" lean-forward="false" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.6/spring-aop-5.3.6.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="435" column="0" lean-forward="false" selection-start-line="435" selection-start-column="0" selection-end-line="435" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/SetmealServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="107" column="5" lean-forward="false" selection-start-line="92" selection-start-column="4" selection-end-line="107" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/mapper/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/UserServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/utils/ValidateCodeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="39" column="35" lean-forward="false" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/front/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/front/page/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="75" column="44" lean-forward="false" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/common/MyMetaObjectHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/utils/SMSUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/common/BaseContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="92" column="30" lean-forward="false" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/filter/LoginCheckFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="57" column="11" lean-forward="false" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/mapper/AddressBookMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/AddressBookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/AddressBookServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/mapper/ShoppingCartMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/ShoppingCartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/ShoppingCartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/SetmealController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2288">
+          <caret line="163" column="5" lean-forward="false" selection-start-line="163" selection-start-column="5" selection-end-line="163" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/ShoppingCartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="83" column="21" lean-forward="false" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1417">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/DishService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/DishServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="73" column="37" lean-forward="false" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/dto/DishDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/entity/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/DishController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="111" column="24" lean-forward="true" selection-start-line="111" selection-start-column="24" selection-end-line="111" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/dto/OrdersDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/OrderDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/mapper/OrderDetailMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/mapper/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/OrderDetailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/OrderDetailController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="11" lean-forward="false" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/AddressBookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/ReggieApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/front/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/front/page/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="194" column="7" lean-forward="true" selection-start-line="194" selection-start-column="7" selection-end-line="194" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/backend/api/food.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="39" column="9" lean-forward="false" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|reggie_take_out</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
