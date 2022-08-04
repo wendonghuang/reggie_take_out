@@ -138,6 +138,10 @@ public class DishController {
             Dish dish = new Dish();
             dish.setId(item);
             dish.setStatus(status);
+
+            //清理菜品缓存
+            String key = "dish_" + item + "_" + status;
+            redisTemplate.delete(key);
             return dish;
 
         }).collect(Collectors.toList());
@@ -160,6 +164,14 @@ public class DishController {
     public R<String> delete(@RequestParam  List<Long> ids) {
 
         dishService.deleteWithDish(ids);
+        ids.stream().map(item -> {
+            //清理菜品缓存
+            String key = "dish_" + item + "_1";
+            redisTemplate.delete(key);
+            return "success";
+        });
+
+
         return R.success("删除成功！");
     }
 
