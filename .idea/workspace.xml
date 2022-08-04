@@ -2,8 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ad14eb9-970b-4593-9967-ac04ec4a5f6a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/ReggieApplication.class" afterPath="$PROJECT_DIR$/target/classes/reggie/ReggieApplication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/common/BaseContext.class" afterPath="$PROJECT_DIR$/target/classes/reggie/common/BaseContext.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/common/CustomerException.class" afterPath="$PROJECT_DIR$/target/classes/reggie/common/CustomerException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/common/GloblaExceptionHandle.class" afterPath="$PROJECT_DIR$/target/classes/reggie/common/GloblaExceptionHandle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/common/MyMetaObjectHandler.class" afterPath="$PROJECT_DIR$/target/classes/reggie/common/MyMetaObjectHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/common/R.class" afterPath="$PROJECT_DIR$/target/classes/reggie/common/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/config/WebMvcConfig.class" afterPath="$PROJECT_DIR$/target/classes/reggie/config/WebMvcConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/controller/AddressBookController.class" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/AddressBookController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/controller/CategoryController.class" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/CategoryController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/controller/CommonController.class" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/CommonController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/controller/DishController.class" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/DishController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/controller/EmployeeController.class" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/EmployeeController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/controller/OrderController.class" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/OrderController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/controller/SetmealController.class" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/SetmealController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/controller/ShoppingCartController.class" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/ShoppingCartController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/controller/UserController.class" afterPath="$PROJECT_DIR$/target/classes/reggie/controller/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/dto/DishDto.class" afterPath="$PROJECT_DIR$/target/classes/reggie/dto/DishDto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/dto/OrdersDto.class" afterPath="$PROJECT_DIR$/target/classes/reggie/dto/OrdersDto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/dto/SetmealDto.class" afterPath="$PROJECT_DIR$/target/classes/reggie/dto/SetmealDto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/entity/AddressBook.class" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/AddressBook.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/entity/Category.class" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/Category.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/entity/Dish.class" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/Dish.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/entity/DishFlavor.class" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/DishFlavor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/entity/Employee.class" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/Employee.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/entity/OrderDetail.class" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/OrderDetail.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/entity/Orders.class" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/Orders.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/entity/Setmeal.class" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/Setmeal.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/entity/SetmealDish.class" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/SetmealDish.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/entity/ShoppingCart.class" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/ShoppingCart.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/entity/User.class" afterPath="$PROJECT_DIR$/target/classes/reggie/entity/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/filter/LoginCheckFilter.class" afterPath="$PROJECT_DIR$/target/classes/reggie/filter/LoginCheckFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/service/CategoryService.class" afterPath="$PROJECT_DIR$/target/classes/reggie/service/CategoryService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/service/DishService.class" afterPath="$PROJECT_DIR$/target/classes/reggie/service/DishService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/service/OrderService.class" afterPath="$PROJECT_DIR$/target/classes/reggie/service/OrderService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/service/SetmealService.class" afterPath="$PROJECT_DIR$/target/classes/reggie/service/SetmealService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/CategoryServiceImp.class" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/CategoryServiceImp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/DishServiceImp.class" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/DishServiceImp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/OrderServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/OrderServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/SetmealServiceImp.class" afterPath="$PROJECT_DIR$/target/classes/reggie/service/serviceImp/SetmealServiceImp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/utils/SMSUtils.class" afterPath="$PROJECT_DIR$/target/classes/reggie/utils/SMSUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reggie/utils/ValidateCodeUtils.class" afterPath="$PROJECT_DIR$/target/classes/reggie/utils/ValidateCodeUtils.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/reggie/controller/DishController.java" afterPath="$PROJECT_DIR$/src/main/java/reggie/controller/DishController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/reggie/controller/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/reggie/controller/UserController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/application.yml" afterPath="$PROJECT_DIR$/target/classes/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,11 +59,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="192">
+              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -29,7 +72,7 @@
       <file leaf-file-name="RedisConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/reggie/config/RedisConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-24">
+            <state relative-caret-position="80">
               <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -38,11 +81,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DishController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DishController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/DishController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+            <state relative-caret-position="320">
+              <caret line="44" column="40" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="44" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1040">
+              <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,14 +107,14 @@
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
+            <state relative-caret-position="1392">
               <caret line="87" column="67" lean-forward="false" selection-start-line="87" selection-start-column="67" selection-end-line="87" selection-end-column="67" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-            <state />
           </provider>
         </entry>
       </file>
@@ -137,7 +192,6 @@
         <option value="$PROJECT_DIR$/src/main/java/reggie/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/reggie/service/serviceImp/UserServiceImp.java" />
         <option value="$PROJECT_DIR$/src/main/resources/front/page/login.html" />
-        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/reggie/filter/LoginCheckFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/reggie/mapper/AddressBookMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/reggie/service/AddressBookService.java" />
@@ -159,9 +213,10 @@
         <option value="$PROJECT_DIR$/src/main/java/reggie/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/src/main/java/reggie/controller/OrderDetailController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/java/reggie/config/RedisConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/reggie/controller/DishController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reggie/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -206,9 +261,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="769" />
-    <option name="y" value="27" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1112" />
     <option name="height" value="784" />
   </component>
@@ -231,8 +286,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,8 +340,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -429,7 +484,8 @@
       <workItem from="1659420181449" duration="3748000" />
       <workItem from="1659496182027" duration="42000" />
       <workItem from="1659505680571" duration="4559000" />
-      <workItem from="1659575664531" duration="3484000" />
+      <workItem from="1659575664531" duration="7076000" />
+      <workItem from="1659587264373" duration="836000" />
     </task>
     <task id="LOCAL-00001" summary="first_commit">
       <created>1659519980407</created>
@@ -473,14 +529,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659577070051</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加redis配置,添加菜品缓存">
+      <created>1659580174698</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659580174698</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89942000" />
+    <option name="totallyTimeSpent" value="94370000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="769" y="27" width="1112" height="784" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -496,24 +559,24 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30156815" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.76506025" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32685512" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8385542" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8383595" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.853125" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31310213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17650215" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -529,11 +592,12 @@
     <MESSAGE value="secondCommit" />
     <MESSAGE value="redis cache" />
     <MESSAGE value="添加redis配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加redis配置" />
+    <MESSAGE value="添加redis配置,添加菜品缓存" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加redis配置,添加菜品缓存" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="33" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -542,13 +606,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/CategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/reggie/service/SetmealService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -588,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="107" column="5" lean-forward="false" selection-start-line="92" selection-start-column="4" selection-end-line="107" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -656,16 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="92" column="30" lean-forward="false" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/reggie/filter/LoginCheckFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -728,7 +774,7 @@
         <state relative-caret-position="375">
           <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -760,9 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="73" column="37" lean-forward="false" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,7 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,7 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,9 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,7 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3104">
           <caret line="194" column="7" lean-forward="false" selection-start-line="194" selection-start-column="7" selection-end-line="194" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -876,7 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -884,7 +920,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -897,27 +932,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="87" column="67" lean-forward="false" selection-start-line="87" selection-start-column="67" selection-end-line="87" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="1392">
+          <caret line="87" column="67" lean-forward="false" selection-start-line="87" selection-start-column="67" selection-end-line="87" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/reggie/config/RedisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24">
+        <state relative-caret-position="80">
           <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -927,11 +954,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/DishController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+        <state relative-caret-position="320">
+          <caret line="44" column="40" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="44" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.6/spring-web-5.3.6.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reggie/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
