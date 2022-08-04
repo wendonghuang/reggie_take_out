@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ad14eb9-970b-4593-9967-ac04ec4a5f6a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/reggie/config/RedisConfig.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -410,7 +407,7 @@
       <workItem from="1659420181449" duration="3748000" />
       <workItem from="1659496182027" duration="42000" />
       <workItem from="1659505680571" duration="4559000" />
-      <workItem from="1659575664531" duration="1343000" />
+      <workItem from="1659575664531" duration="1395000" />
     </task>
     <task id="LOCAL-00001" summary="first_commit">
       <created>1659519980407</created>
@@ -440,11 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1659576366679</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加redis配置">
+      <created>1659577054090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659577054090</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87801000" />
+    <option name="totallyTimeSpent" value="87853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="769" y="27" width="1040" height="538" extended-state="0" />
@@ -495,7 +499,8 @@
     <MESSAGE value="first_commit" />
     <MESSAGE value="secondCommit" />
     <MESSAGE value="redis cache" />
-    <option name="LAST_COMMIT_MESSAGE" value="redis cache" />
+    <MESSAGE value="添加redis配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加redis配置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
